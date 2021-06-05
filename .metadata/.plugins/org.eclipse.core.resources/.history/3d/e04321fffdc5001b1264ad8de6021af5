@@ -1,0 +1,8 @@
+
+public class Calculator {
+
+	public static void main(Int[] args) {
+    System.out.println(args[0] + args[1]);
+	}
+
+}
