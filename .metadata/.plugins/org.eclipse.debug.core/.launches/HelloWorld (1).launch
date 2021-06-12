@@ -10,6 +10,5 @@
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
     <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Calculator"/>
     <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="training-java"/>
-    <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="20 40"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="training-java"/>
 </launchConfiguration>
